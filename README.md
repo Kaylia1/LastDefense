@@ -24,4 +24,5 @@ Note: This game has only been tested on Ubuntu 20.04, though it may work on othe
 
 # How to Play
 Kings make many enemies, and explosive killer drones are trying to assassinate you!
+
 Use arrow keys to move the player, the king, on the grid and around black walls. Dodge explosive enemies as you collect cash lying around the board. Use the spacebar to spend 100 cash in order to temporarily hire a soldier to defend you, they will attack enemies one square away and act as barriers that enemies cannot go through. The player and enemies have health bars, while the soldier has a timer bar which shows the amount of time left they will help protect you. Beware the red edges where the enemies spawn from! Collect as much cash and summon as many soldiers as possible before the swarm catches you.
